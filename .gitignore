@@ -1,0 +1,15 @@
+*.xlsx
+*.xls
+*.csv
+data/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.python-version
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
