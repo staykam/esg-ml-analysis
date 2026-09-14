@@ -1,9 +1,9 @@
 # ESG Data Analysis via Machine Learning & Deep Learning
-**BSc Capstone -- EU Business School - Corentin Lepla**
+**BSc Capstone -- Erasmus University College - Corentin Lepla**
 
 **Goal:** identify which ESG variables predict a firm's risk-adjusted efficiency (Sharpe ratio), independent of industry or geography.
 
-**Premise / hypothesis:** ESG research fixates on ROI/ROA/ROE and rarely applies AI to noisy, nonlinear financial data; k-means + random forests should surface firm archetypes and score drivers that conventional rating aggregation misses.
+**Premise / hypothesis:** ESG research fixates on ROI/ROA/ROE and rarely applies AI to noisy, nonlinear financial data; k-means + random forests should surface firm archetypes and score drivers that conventional rating aggregation misses hence contributing to the discussion about the value of ESG data.
 
 **Status:** complete -- BSc Capstone thesis (graded). Full pipeline (ingest -> clean -> cluster -> model) in `notebooks/`.
 
